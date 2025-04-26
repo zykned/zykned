@@ -13,10 +13,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/vynors" target="blank">
+  <a href="https://instagram.com/vynors" target="blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vynors" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/iwnl" target="blank">
+  <a href="https://discord.gg/iwnl" target="blank" Title="Discord">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iwnl" height="30" width="40" />
   </a>
 </p>
