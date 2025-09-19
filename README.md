@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/zykned/Personal">Personal</a><br>
-  📫 Reach me on Discord: <strong>Zykn</strong><br>
-  ⚡ Fun fact: I have 600+ hours in Dark Souls 3
+   I’m currently working on school projects...<br>
+   Reach me on Discord: <strong>Zykn</strong><br>
+   Fun fact: I have 600+ hours in Dark Souls 3
 </p>
 
 <h3 align="center">Connect with me:</h3>
